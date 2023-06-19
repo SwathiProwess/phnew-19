@@ -159,8 +159,8 @@
 			<layout>default</layout>
 		</repository>
 		<repository>
-			<id>IEWC-anypoint-exchange-repo</id>
-			<name>IE anypoint exchange</name>
+			<id>MuleRepository</id>
+			<name>Corporate Repository</name>
 			<url>https://maven.anypoint.mulesoft.com/api/v1/organizations/45fe9fe3-71e9-4c7f-99b4-aade424656d9/maven</url>
 			<layout>default</layout>
 		</repository>
